@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Paramed</string>
+
+
+    <string name="title_activity_admin_home">AdminHome</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="message">Please enter an email address used to register so to receive a link to reset password</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="register">Register</string>
+    <string name="add_team_opponent">Add Team / Opponent</string>
+    <string name="roles">Roles</string>
+    <string name="move_player">Move Player</string>
+    <string name="my_players">My Players</string>
+    <string name="submit_team">Submit Team</string>
+    <string name="choach_for_team">Coach for the team</string>
+    <string name="choose_age_group">Choose age group</string>
+    <string name="team_name">Team Name</string>
+    <string name="add_incident">Add Team or Opponent</string>
+    <string name="currently_in_the">currently in the</string>
+    <string name="move_this_player_to">Move this player to</string>
+    <string name="add_a_player_to_your_team">Add a player to your Team</string>
+    <string name="name_of_player">Name of player</string>
+    <string name="save_player">Save Player</string>
+    <string name="enter_medical_info">Enter medical info</string>
+    <string name="add_medical_info_for">Add Medical Info for</string>
+    <string name="save_medical_info">Save Medical Info</string>
+    <string name="second_parent_cell">Second Parent cell</string>
+    <string name="first_parent_cell">First Parent Cell</string>
+    <string name="allergies">Allergies</string>
+    <string name="medical_aid_number">Medical Aid Number</string>
+    <string name="medical_aid_plan">Medical Aid Plan</string>
+    <string name="medical_aid_name">Medical Aid Name</string>
+    <string name="call_parent_2">Call Parent 2</string>
+    <string name="call_parent_1">Call Parent 1</string>
+    <string name="update_medical_info">Update Medical info</string>
+    <string name="opponent">Opponent</string>
+    <string name="opps_list">List of Opponents</string>
+    <string name="add_player">Add Player</string>
+    <string name="matches">Matches</string>
+</resources>

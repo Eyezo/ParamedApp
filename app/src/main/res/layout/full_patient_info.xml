@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <android.support.V7.widget.CardView>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            app:cardBackgroundColor="@color/colorDark">
+
+            <TextView
+                android:id="@+id/patientName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="patient name"
+                android:textStyle="bold"
+                android:textColor="@color/colorWhite"
+                android:textSize="15sp"/>
+            <TextView
+                android:id="@+id/patientId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="patient Id"
+                android:textStyle="bold"
+                android:textColor="@color/colorWhite"
+                android:textSize="15sp"/>
+            <TextView
+                android:id="@+id/patientGen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="patient Gender"
+                android:textStyle="bold"
+                android:textColor="@color/colorWhite"
+                android:textSize="15sp"/>
+            <TextView
+                android:id="@+id/patientEthn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="patient ethnicity"
+                android:textStyle="bold"
+                android:textColor="@color/colorWhite"
+                android:textSize="15sp"/>
+            <TextView
+                android:id="@+id/patientAdd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="patient Address"
+                android:textStyle="bold"
+                android:textColor="@color/colorWhite"
+                android:textSize="15sp"/>
+            <TextView
+                android:id="@+id/patientCont"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="patient Contact"
+                android:textStyle="bold"
+                android:textColor="@color/colorWhite"
+                android:textSize="15sp"/>
+
+        </LinearLayout>
+    </android.support.V7.widget.CardView>
+
+</LinearLayout>
